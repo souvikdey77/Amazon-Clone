@@ -9,7 +9,7 @@
 }
 
 .header__logo {
-  width: 100px;
+  width: 60px;
   object-fit: contain;
   margin: 0 20px;
   margin-top: 18px;
@@ -23,7 +23,7 @@
 }
 
 .header__searchInput {
-  height: 12px;
+  height: 10px;
   padding: 10px;
   border: none;
   width: 100%;
@@ -41,6 +41,26 @@
   margin-left: 10px;
   margin-right: 10px;
   color: white;
+}
+
+.header_optionLineOne {
+  font-size: 10px;
+}
+
+.header_optionLineTwo {
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.header_optionBasket {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.header_busketCount {
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .header__nav {
