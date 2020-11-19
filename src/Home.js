@@ -31,21 +31,21 @@ function Home() {
           <Product
             id="12133"
             title="Samsung Galaxy M21 (Midnight Blue, 4GB RAM, 64GB Storage) - Get Rs 1,000 Amazon Pay cashback on prepaid orders. Limited Period offer"
-            price={121.5}
+            price={21.5}
             image="https://images-na.ssl-images-amazon.com/images/I/71dujTTJDZL._SL1500_.jpg"
             rating={5}
           />
           <Product
             id="12134"
             title="New Apple iPad (10.2-inch, Wi-Fi + Cellular, 128GB) - Space Grey (Latest Model, 8th Generation)"
-            price={121.5}
+            price={70.99}
             image="https://images-na.ssl-images-amazon.com/images/I/715-Tooq32L._SL1500_.jpg"
             rating={5}
           />
           <Product
             id="12135"
             title="Lenovo GXD0T69863 Legion H300 Stereo Gaming Headset"
-            price={121.5}
+            price={21.75}
             image="https://images-na.ssl-images-amazon.com/images/I/61%2B8Nwmi2VL._SL1480_.jpg"
             rating={5}
           />
