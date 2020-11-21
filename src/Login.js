@@ -34,7 +34,7 @@ function Login() {
       <Link to="/">
         <img
           className="login__logo"
-          src="https://lh3.googleusercontent.com/proxy/-1br5t-p2o-OfzZ5sGBBr_1FtTRPo7ADAYJng91o1-u3w-fVnJByIdc2AHUCD6mVqk0m-0W9yjZ-t-7dL7tS22g9iJ9qd23JEJQPXwsaXTJc1aNAmeF2GWL24cCHNM_NWBkMO8iPGjZvd9qyz28TvxlVez4L4ew"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1024px-Amazon_logo.svg.png"
           alt=""
         />
       </Link>

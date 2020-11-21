@@ -11,7 +11,7 @@ function Checkout() {
       <div className="checkout__left">
         <img
           className="checkout__ad"
-          src="https://images-eu.ssl-images-amazon.com/images/G/31/img17/pc_banner_2.jpg"
+          src="https://images-na.ssl-images-amazon.com/images/G/02/UK_CCMP/TM/OCC_Amazon1._CB423492668_.jpg"
         />
         <div className="checkout__title">
           <h3>Hello, {user?.email}</h3>
