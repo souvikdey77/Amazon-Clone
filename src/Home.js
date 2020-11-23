@@ -1,6 +1,5 @@
 import React from "react";
 import "./Home.css";
-import amazon from "./amazon.jpg";
 import Product from "./Product";
 
 function Home() {
@@ -14,9 +13,9 @@ function Home() {
         <div className="home__row">
           <Product
             id="12131"
-            title="The lean startup"
-            price={19.99}
-            image="https://images-na.ssl-images-amazon.com/images/I/41Q419CMtfL.jpg"
+            title="AmazonBasics 7 kg Semi Automatic Washing Machine (with Heavy wash function, White/Blue color)"
+            price={100.55}
+            image="https://images-na.ssl-images-amazon.com/images/I/71%2BJK-QC68L._SL1500_.jpg"
             rating={4}
           />
           <Product
@@ -38,7 +37,7 @@ function Home() {
           <Product
             id="12134"
             title="New Apple iPad (10.2-inch, Wi-Fi + Cellular, 128GB) - Space Grey (Latest Model, 8th Generation)"
-            price={70.99}
+            price={70}
             image="https://images-na.ssl-images-amazon.com/images/I/715-Tooq32L._SL1500_.jpg"
             rating={5}
           />
